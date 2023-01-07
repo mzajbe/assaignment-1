@@ -32,7 +32,7 @@
      
 }
 .header{
-    background-image: url('/images/banner/banner2.png');
+    background-image: url('images/banner/banner2.png');
     background-repeat: no-repeat;
     
     width: 1600px;
@@ -87,7 +87,7 @@ text-align: right;
 .about{
     width: 1072px;
 height: 723.3px;
-background-image: url('/images/person.png');
+background-image: url('images/person.png');
     background-repeat: no-repeat;
     text-align: right;
     display: flex;
@@ -133,7 +133,7 @@ margin-left: 800px;
 }
 
 .grediant-title{
-     background-image: url('/images/gradient2.png');
+     background-image: url('images/gradient2.png');
     width: 1140px;
     height: 300px;
 }
