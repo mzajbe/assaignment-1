@@ -1,0 +1,171 @@
+*{
+    /* margin: 0; */
+    margin: auto;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.btn-primary{
+    color: #FFFFFF;
+    height: 64px;
+    border-radius: 5px;
+    background: #FD6E0A;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    text-align: right;
+
+}
+.btn{
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    padding: 10px 10px;
+    margin-top: 16px;
+}
+.button{
+    
+}
+
+/* header section */
+.text-primary{
+     
+}
+.header{
+    background-image: url('/images/banner/banner2.png');
+    background-repeat: no-repeat;
+    
+    width: 1600px;
+height: 809px;
+
+    
+}
+
+.banner{
+    
+    position: absolute;
+width: 525px;
+height: 228px;
+left: 845px;
+top: 216px;
+    
+}
+.banner-title{
+    font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+text-align: right;
+}
+.banner-description{
+    text-align: right;
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+/* about section */
+.about-title{
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    
+}
+.about-sub-title{
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    font-style: normal;
+    margin-top: 16px;
+    /* position:static; */
+
+
+}
+.section{
+    margin-top: 130px;
+}
+.about{
+    width: 1072px;
+height: 723.3px;
+background-image: url('/images/person.png');
+    background-repeat: no-repeat;
+    text-align: right;
+    display: flex;
+    
+    margin-bottom: 130px;
+    
+}
+
+.about-content{
+    margin-top: 16px;
+}
+
+.aline{
+    text-align: justify;
+    width: 416px;
+height: 400px;
+margin-left: 800px;
+}
+
+/* skills */
+
+.skills-container{
+    display: flex;
+    
+    
+}
+
+.section-title{
+    text-align: center;
+    margin-bottom: 50px;
+    font-weight: 700;
+    font-size: 40px;
+    
+}
+.section{
+    margin: 130px 230px;
+}
+
+
+/* grediant */
+.grediant{
+    margin: 120px 230px;
+}
+
+.grediant-title{
+     background-image: url('/images/gradient2.png');
+    width: 1140px;
+    height: 300px;
+}
+
+.grediant-paragraph{
+    font-weight: 700;
+    font-size: 40px;
+    
+    
+   
+}
+.paragraph-box{
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    padding: 50px 50px;
+}
+
+/* footer */
+.contract{
+    display: flex;
+    background-color: #151414;
+    color: white;
+    padding-top: 130px;
+    padding-right: 331px;
+    padding-bottom: 130px;
+    padding-left: 230px;
+}
+.action{
+    padding: 130px 29px 243px 331px;
+}
+.input{
+    height: 64px;
+}
